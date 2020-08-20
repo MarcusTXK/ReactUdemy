@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My First Stream",
+      "description": "Hello its me!",
+      "id": 1
+    },
+    {
+      "title": "Biscuit's stream",
+      "description": "Doggy",
+      "id": 2
+    },
+    {
+      "title": "My Third Stream [2020 Update]",
+      "description": "With ID this time!",
+      "id": 3
+    },
+    {
+      "title": "My Stream",
+      "description": "Hello World!",
+      "userId": "116523815106210221066",
+      "id": 4
+    }
+  ]
+}
