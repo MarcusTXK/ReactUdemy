@@ -14,7 +14,7 @@
 * Click videos in the list on the right to focus it in the middle and play it
 ![image](https://user-images.githubusercontent.com/50147457/90796008-582dd700-e341-11ea-8ee1-0cc40cef105f.png)
 ---
-# Stream
+# Streams
 * A simple streaming website that allows you to watch streams currently created by other users.
 * When signed in (via Google OAuth 2.0), a user can create a stream. Only the owner of a stream can edit or delete their own stream.
 * User can stream their screen via Open Broadcaster Software (OBS) to the created stream.
