@@ -19,6 +19,6 @@
 * When signed in (via Google OAuth 2.0), a user can create a stream. Only the owner of a stream can edit or delete their own stream.
 * User can stream their screen via Open Broadcaster Software (OBS) to the created stream.
 * Stores data in a [JSON server](https://github.com/typicode/json-server) to emulate backend database.
-* Real Time Messaging Protocol (RTMP) server uses [Node Media Server](https://github.com/illuspas/Node-Media-Server).
+* Uses [Node Media Server](https://github.com/illuspas/Node-Media-Server) as a Real Time Messaging Protocol (RTMP) server.
 ![image](https://user-images.githubusercontent.com/50147457/90800239-fd977980-e346-11ea-82ba-c594d3d622d7.png)
 ![Picture4](https://user-images.githubusercontent.com/50147457/90800653-86aeb080-e347-11ea-9a7b-54c995c71a96.png)
