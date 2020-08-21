@@ -10,12 +10,12 @@
 ![image](https://user-images.githubusercontent.com/50147457/90794627-90ccb100-e33f-11ea-9f9d-93486531ef56.png)
 ---
 # Videos
-* Displays 5 videos form youtube based on a search result, with a playable focused video in the middle. 
+* Displays 5 videos from YouTube based on a search result, with a playable main video in the middle. 
 * Click videos in the list on the right to focus it in the middle and play it
 ![image](https://user-images.githubusercontent.com/50147457/90796008-582dd700-e341-11ea-8ee1-0cc40cef105f.png)
 ---
 # Streams
-* A simple streaming website that allows you to watch streams currently created by other users.
+* A simple streaming website that allows you to watch streams created by other users.
 * When signed in (via Google OAuth 2.0), a user can create a stream. Only the owner of a stream can edit or delete their own stream.
 * User can stream their screen via Open Broadcaster Software (OBS) to the created stream.
 * Stores data in a [JSON server](https://github.com/typicode/json-server) to emulate backend database.
