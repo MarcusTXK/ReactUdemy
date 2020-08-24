@@ -2,7 +2,7 @@
 * Various react projects developed throughout the duration of the Udemy course:
 ---
 # Seasons
-* Displays a web page with the predicted season of the user by using the user's location
+* Displays a web page with the predicted season by using the user's location
 ![Picture3](https://user-images.githubusercontent.com/50147457/90800364-2586dd00-e347-11ea-9ee0-bd123eefb65d.png)
 ---
 # Pictures
